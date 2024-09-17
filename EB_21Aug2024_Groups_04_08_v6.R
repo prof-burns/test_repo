@@ -1,3 +1,5 @@
+# Giving this a try in git
+
 #### Reading in the data and checking it over ####
 
 # Set the working directory to be where all the files are:
